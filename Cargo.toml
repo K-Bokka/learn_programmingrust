@@ -3,4 +3,5 @@
 members = [
     "hello",
     "iron-gcd",
+    "mandelbrot",
 ]
